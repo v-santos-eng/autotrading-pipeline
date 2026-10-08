@@ -1,0 +1,17 @@
+{
+  "raw_root": "data/raw",
+  "normalized_root": "data/normalized",
+  "aligned_root": "data/aligned",
+  "features_root": "data/features",
+  "labels_root": "data/labels",
+  "manifests_root": "data/manifests",
+  "resample_freq": "1min",
+  "align_strategy": "inner",
+  "horizon": 1,
+  "vol_window": 20,
+  "rsi_window": 14,
+  "ma_window": 20,
+  "threshold": 0.0,
+  "neutral_band": 0.0,
+  "max_missing_rate": 0.05
+}
